@@ -120,7 +120,6 @@ export default function AdForm() {
                     <DialogTitle className="text-white">
                       Зургийн дэлгэрэнгүй
                     </DialogTitle>{" "}
-                    {/* Title нэмсэн */}
                     <img
                       src={selectedImage}
                       alt="preview"
